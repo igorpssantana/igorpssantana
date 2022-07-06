@@ -1,22 +1,15 @@
-### Olá, eu sou o Igor Paulo/ Hello, i'm Igor Paulo 👋 !!!
+## Olá, eu sou o Igor Paulo / Hello, i'm Igor Paulo 👋 !!!
 
-<!--
-**IPDSS1337/IPDSS1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje, atuo na área de front-end development / Today, i'm a front-end development !!!
 
-Here are some ideas to get you started:
+- 🌱 Estou estudando React, Express e Node.js / Learning React, Express and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+<div> 
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api?username=IPDSS1337&count_private=true&show_icons=true&theme=tokyonight">
+  <img height="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IPDSS1337&layout=compact&theme=tokyonight">
+</div>
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IPDSS1337&count_private=true&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPDSS1337&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
