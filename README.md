@@ -3,7 +3,7 @@
 
 <div> 
   <img height="180em" width="40%" src= "https://github-readme-stats.vercel.app/api?username=IPDSS1337&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" width="48%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IPDSS1337&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="40%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IPDSS1337&layout=compact&theme=tokyonight"/>
 </div>
 
 <!-- Learning Section -->
@@ -31,6 +31,10 @@
 <div style="display: inline_block">
     <a href="mailTo:igorpaulo450@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+![Snake animation] (https://github.com/IPDSS1337)
 
 
 
