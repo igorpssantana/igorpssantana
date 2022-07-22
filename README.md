@@ -34,7 +34,7 @@
 
 ##
 
-![Snake animation] (https://github.com/IPDSS1337)
+
 
 
 
