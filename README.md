@@ -17,7 +17,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <h3> Em breve / Soon - 
+  <h3> Estudando / Learning - 
     <img alt="NODEJS-icon" align="center" height="36em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img alt="REACTJS-icon" align="center" height="36em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </h3>
