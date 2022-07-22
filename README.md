@@ -37,7 +37,6 @@
 
 ![snake gif](https://github.com/igorpssantana/igorpssantana/blob/output/github-contribution-grid-snake.svg)
 
-<github-card data-user="rocktimsaikia"></github-card>
 ##
 
 
