@@ -3,7 +3,7 @@
 
 <div> 
   <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api?username=igorpssantana&count_private=true&show_icons=true&theme=tokyonight"/>
-  <img height="180em" width="45%" src= "[https://github-readme-stats.vercel.app/](https://github-readme-stats-rho-green.vercel.app/)api/top-langs/?username=igorpssantana&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api?username=igorpssantana&layout=compact&theme=tokyonight"/>
 </div>
 
 <!-- Learning Section -->
