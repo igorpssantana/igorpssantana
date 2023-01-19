@@ -5,7 +5,7 @@
   <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api?username=igorpssantana&count_private=true&show_icons=true&theme=tokyonight"/>
   <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api/top-langs?username=igorpssantana&layout=compact&theme=tokyonight"/>
 </div>
-  [![Spotify](https://novatorem-igorpssantana.vercel.app/api/spotify)](https://open.spotify.com/user/)
+  ![Spotify](https://novatorem-igorpssantana.vercel.app/api/spotify)](https://open.spotify.com/user/)
 
 <!-- Learning Section -->
 
