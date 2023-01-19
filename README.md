@@ -1,12 +1,10 @@
 ## Olá, eu sou o Igor Paulo / Hello, i'm Igor Paulo 👋 !!!
 <!-- Status Section -->
 
-<div> 
+<div align="center"> 
   <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api?username=igorpssantana&count_private=true&show_icons=true&theme=tokyonight"/>
   
   <img height="180em" width="45%" src= "https://github-readme-stats-igorpssantana.vercel.app/api/top-langs?username=igorpssantana&layout=compact&theme=tokyonight"/>
-  
-  ![Spotify](https://novatorem-igorpssantana.vercel.app/api/spotify)
 </div>
   
 
@@ -28,10 +26,18 @@
     <a href="mailTo:igorpaulo450@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/igorpaulossantana" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/igor-paulo-360bba1b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
+  
+##
+<div align="center">
+  
+  ![Spotify](https://novatorem-igorpssantana.vercel.app/api/spotify)
+  ![snake gif](https://github.com/igorpssantana/igorpssantana/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 
-![snake gif](https://github.com/igorpssantana/igorpssantana/blob/output/github-contribution-grid-snake.svg)
+
 
 ##
 
